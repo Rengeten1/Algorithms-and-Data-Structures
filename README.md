@@ -4,10 +4,13 @@ This repository contains implementations of various algorithms and data structur
 ## Algorithms
 This section includes various algorithms categorized into different types. Each algorithm is given with a brief description, its implementation and few question to test your understanding. 
 
+- Complexity Analysis
+
 - Uninformed Search Algorithms
   - Breadth First Search
 - informed Search Algorithms
-
+  - Lowest Cost Search
+- Quantum Computing
 ## Data Structures
 This section includes various data structures implemented.
 

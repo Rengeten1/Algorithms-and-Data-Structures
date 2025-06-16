@@ -2,3 +2,5 @@ pandas
 matplotlib
 numpy
 scikit-learn
+jupyter
+ipykernel
