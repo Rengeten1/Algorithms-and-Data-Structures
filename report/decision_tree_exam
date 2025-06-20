@@ -1,0 +1,11 @@
+digraph {
+	137123379835440 [label="Windy?"]
+	137123365518096 [label="Label: 1" shape=box]
+	137123379835440 -> 137123365518096 [label="Windy=0"]
+	137123364798544 [label="Outlook?"]
+	137123379835440 -> 137123364798544 [label="Windy=1"]
+	137124888507840 [label="Label: 0" shape=box]
+	137123364798544 -> 137124888507840 [label="Outlook=0"]
+	137123371945920 [label="Label: 0" shape=box]
+	137123364798544 -> 137123371945920 [label="Outlook=1"]
+}
