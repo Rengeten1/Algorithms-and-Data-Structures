@@ -2,3 +2,6 @@ pandas
 numpy
 mmh3
 bitarray
+ipykernel
+jupyter
+graphviz
