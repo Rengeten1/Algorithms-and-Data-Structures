@@ -8,6 +8,9 @@ This section includes various algorithms categorized into different types. Each 
   - Big O Notation
   - Time Complexity
   - Space Complexity
+  - Recurrence Relations
+  - Master Theorem
+  - Substitution Method
 - Uninformed Search Algorithms
   - Breadth First Search
 - Informed Search Algorithms
@@ -16,9 +19,8 @@ This section includes various algorithms categorized into different types. Each 
   - Bubble Sort
   - Merge Sort
   - Quick Sort
+- Binary Search Tree
 - Recursion
-
-
 
 ## Data Structures
 This section includes various data structures implemented.
@@ -36,10 +38,15 @@ This section includes various data structures implemented.
   - Binary Tree
   - Binary Search Tree
   - Decision Tree
+- Hash Maps
+  - Hash Table
+  - Hash Map
 
 
 ## Other Topics
 - Quantum Computing
+- Bloom Filter
+- Fast Matrix Multiplication
 
 ## Installation
 To use the algorithms and data structures in this repository, you can clone the repository and run the Python files directly. Make sure you have Python installed on your machine.
