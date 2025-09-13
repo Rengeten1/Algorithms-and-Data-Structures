@@ -6,6 +6,7 @@
 
 This repository contains implementations of various algorithms and data structures in Python completed in the class of _Prof.Patrick Glauner_ at _THD_ and also resources and questions from the _Data Structures and Algorithms in Python by Micheal T.Goodrich_. The goal is to provide a comprehensive collection of algorithms and data structures that can be used for educational purposes, interviews, and practical applications.
 
+Note: I have also included some tests to practice and verify the implementations of only sorting algorithms for now. More tests will be added soon for other algorithms and data structures.
 
 ## Algorithms
 This section includes various algorithms categorized into different types. Each algorithm is given with a brief description, its implementation and few question to test your understanding. 
